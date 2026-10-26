@@ -1,1 +1,0 @@
-# Symmetry-Aware-Score-Matching-Motion-Priors-for-Physics-Based-Humanoid-Control
