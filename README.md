@@ -1,4 +1,5 @@
 # Symmetry Actor vs. Default SMP — GitHub Pages
+# https://fallenconfidence.github.io/Symmetry_smp/
 
 `dist/` 內是可直接部署的靜態網站：
 
